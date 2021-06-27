@@ -1,0 +1,12 @@
+{
+  "name": "DivaSBot",
+  "version": "1.0.0",
+  "description": "bot de whatsapp",
+  "main": "mwarfer.js",
+  "scripts": {
+  "start": "node mwarfer.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
